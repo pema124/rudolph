@@ -50,4 +50,4 @@ input.onButtonEvent(Button.A, input.buttonEventClick(), function () {
     basic.setLedColors(0x000000, 0x000000, 0x000000)
     music.rest(music.beat(BeatFraction.Double))
 })
-music.setTempo(165)
+music.setTempo(142)
